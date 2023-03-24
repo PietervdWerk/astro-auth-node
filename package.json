@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@astrojs/node": "^5.1.0",
+    "@auth/core": "^0.5.1",
+    "@pietervdwerk/auth-astro": "^2.0.4",
     "astro": "^2.1.6"
   }
 }
